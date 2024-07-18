@@ -1,5 +1,7 @@
 ## Exploratory Data Analysis (EDA) on Video Game Sales Dataset
 
+![image](https://github.com/user-attachments/assets/7daae909-82a7-4409-9f8e-d1a77b1fc4a2)
+
 ### Overview of the Project
 
 *Name:* VISHAKHA <br>
